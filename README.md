@@ -15,7 +15,7 @@
 > ###  5. Press <\Enter> to separate two lines.
 ### ![](1.4.png)
 > ###  6. Press <\esc> to turn off the insert mode and save the file and quit by typing <\shift>:wq.
-### ![](1.5.png)
+### ![](1.4.png)
 
 # *************************************************************************
 ## Part 2. 
