@@ -5,7 +5,7 @@
 ### /File[]iSystem.out.println(f.toString()+" is directory”);<\Enter><\esc>:wq<\Enter>
 
 > ###  1. Use backslash, "/", in order to search for the term, "File[]", which is the line where we want to insert new line.
-### ![image](截圖 2022-12-02 下午10.47.52.png)
+> ![image](截圖 2022-12-02 下午10.47.52.png)
 > ###  2. After pressing <\Enter>, the cursor is brought to the beginning of the line.
 ### ![](ss2.png)
 > ###  3. Then press i in order to change to insert mode. In the lower left side of the screen, the word, "insert", is shown.
